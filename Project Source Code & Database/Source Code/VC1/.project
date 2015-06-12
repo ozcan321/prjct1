@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>VC1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images/frameIcon.JPG</name>
+			<type>1</type>
+			<location>C:/Users/Satellite A300-15B/Desktop/frameIcon.JPG</location>
+		</link>
+		<link>
+			<name>src/images/maysanMandoIcon.JPG</name>
+			<type>1</type>
+			<location>C:/Users/Satellite A300-15B/Desktop/maysanMandoIcon.JPG</location>
+		</link>
+		<link>
+			<name>src/images/ok.JPG</name>
+			<type>1</type>
+			<location>C:/Users/Satellite A300-15B/Desktop/ok.JPG</location>
+		</link>
+		<link>
+			<name>src/images/solOk.JPG</name>
+			<type>1</type>
+			<location>C:/Users/Satellite A300-15B/Desktop/solOk.JPG</location>
+		</link>
+	</linkedResources>
+</projectDescription>
